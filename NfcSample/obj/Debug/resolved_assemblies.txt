@@ -1,0 +1,1 @@
+/Users/gerb/Projects/NfcSample/NfcSample/bin/Debug/NfcSample.dll

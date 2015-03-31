@@ -1,0 +1,2 @@
+NfcSample.MainActivity;nfcsample.MainActivity
+NfcSample.NfcReader;nfcsample.NfcReader
